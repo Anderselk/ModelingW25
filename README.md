@@ -80,6 +80,6 @@ RK4 is shown to be highly accurate for this system, with observed convergence ra
 ## Running the Code
 
 Each project is self-contained:
-- Run `fiber_main.m` for HW4 (all deterministic and stochastic problems in one script).
-- HW1 vortex simulation files can be modularized similarly (split across analytical writeups and simulation plots).
+- Run `ESAM346_HW4.m` for HW4 (all deterministic and stochastic problems in one script).
+- HW1 vortex simulation files can be modularized similarly `ESAM346_HW1.m`.
 
