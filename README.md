@@ -1,17 +1,17 @@
 # ModelingW25
 ESAM346, other projects
-# ESAM 346 Projects – Numerical Methods for Dynamical Systems
+# MATLAB W25 Projects – Numerical Methods for Dynamical Systems
 
-This repository contains two major simulation-based projects developed for ESAM 346 (Modeling and Computation in Applied Math). Each project focuses on numerical methods applied to different physical models using MATLAB.
+This repository contains two major simulation-based projects developed for Modeling and Computation in Applied Math. Each project focuses on numerical methods applied to different physical models using MATLAB.
 
 ## Contents
 
-- [HW1: Vortex Interaction Simulation]
-- [HW4: Fiber Extrusion Simulation]
+- [Vortex Interaction Simulation]
+- [Fiber Extrusion Simulation]
 
 ---
 
-## HW1: Vortex Interaction Simulation
+## Vortex Interaction Simulation
 
 **Objective:**  
 Simulate the behavior of vortices and a passive particle in 2D flow using numerical integration methods.
@@ -35,7 +35,7 @@ The RK4 method is far more stable and accurate in preserving expected trajectori
 
 ---
 
-## HW4: Fiber Extrusion Simulation with and without Noise
+## Fiber Extrusion Simulation with and without Noise
 
 **Objective:**  
 Model the trajectory of a flexible fiber being extruded in 2D space, both deterministically and stochastically, to investigate convergence, geometric behavior, and noise effects.
@@ -80,6 +80,6 @@ RK4 is shown to be highly accurate for this system, with observed convergence ra
 ## Running the Code
 
 Each project is self-contained:
-- Run `ESAM346_HW4.m` for HW4 (all deterministic and stochastic problems in one script).
-- HW1 vortex simulation files can be modularized similarly `ESAM346_HW1.m`.
+- Run `ESAM346_HW4.m` for Fiber Extrusion (all deterministic and stochastic problems in one script).
+- The vortex simulation files can be modularized similarly `ESAM346_HW1.m`.
 
