@@ -1,5 +1,4 @@
 # ModelingW25
-ESAM346, other projects
 # MATLAB W25 Projects – Numerical Methods for Dynamical Systems
 
 This repository contains two major simulation-based projects developed for Modeling and Computation in Applied Math. Each project focuses on numerical methods applied to different physical models using MATLAB.
